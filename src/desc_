@@ -1,0 +1,20 @@
+Expense Tracker App
+===================
+Language:
+    Functions - React.Js, JavaScript.
+    Static - TailwindCSS, CSS, HTML.
+    others - React-router, Context Api.
+=======================================
+
+Overview:
+(<name>) - Components
+((<name>) ==> ..., (<name>)) - Components in a component
+
+Action:
+    (Home) ==> ((UI) ==> (View)) <__
+                       \            \
+                        \            \
+                         \            \
+                          \            \
+                           \            \
+                            \___> (Context) 
